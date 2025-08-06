@@ -22,12 +22,12 @@ CCTV17,http://117.72.194.224:656/zb.php?id=cctv17
 CCTV发现之旅,http://117.72.194.224:656/zb.php?id=fxzl
 CCTV老故事,http://117.72.194.224:656/zb.php?id=lgs
 CCTV中学生,http://117.72.194.224:656/zb.php?id=zxs
-CGTN,http://117.72.194.224:656/zb.php?id=cgtn
-CGTN纪录,http://117.72.194.224:656/zb.php?id=cgtnjl
 CCTV西班牙语,http://117.72.194.224:656/zb.php?id=cgtne
 CCTV法语,http://117.72.194.224:656/zb.php?id=cgtnf
 CCTV阿拉伯语,http://117.72.194.224:656/zb.php?id=cgtna
 CCTV俄语,http://117.72.194.224:656/zb.php?id=cgtnr
+CGTN,http://117.72.194.224:656/zb.php?id=cgtn
+CGTN纪录,http://117.72.194.224:656/zb.php?id=cgtnjl
 CCTV1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
 CCTV2,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8
 CCTV3,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
@@ -517,6 +517,7 @@ BEYOND-请将手放开,http://em.21dtv.com/songs/60035529.mkv
 F.I.R-流浪者之歌(演唱会),http://em.21dtv.com/songs/60027684.mkv
 王铮亮-千金不换爱,http://em.21dtv.com/songs/60111292.mkv
 MTVBlockParty,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8
+
 
 
 
