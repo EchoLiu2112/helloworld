@@ -6,7 +6,7 @@ CCTV4,http://117.72.194.224:656/zb.php?id=cctv4
 CCTV4a,http://117.72.194.224:656/zb.php?id=cctv4a
 CCTV4o,http://117.72.194.224:656/zb.php?id=cctv4o
 CCTV5,http://117.72.194.224:656/zb.php?id=cctv5
-CCTV5+,http://117.72.194.224:656/zb.php?id=cctv5+
+CCTV5+,http://117.72.194.224:656/zb.php?id=cctv5p
 CCTV6,http://117.72.194.224:656/zb.php?id=cctv6
 CCTV7,http://117.72.194.224:656/zb.php?id=cctv7
 CCTV8,http://117.72.194.224:656/zb.php?id=cctv8
@@ -579,6 +579,7 @@ BEYOND-请将手放开,http://em.21dtv.com/songs/60035529.mkv
 F.I.R-流浪者之歌(演唱会),http://em.21dtv.com/songs/60027684.mkv
 王铮亮-千金不换爱,http://em.21dtv.com/songs/60111292.mkv
 MTVBlockParty,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8
+
 
 
 
