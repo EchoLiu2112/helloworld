@@ -1,3 +1,4 @@
+CCTV,#genre#
 CCTV1,http://39.137.75.234/000000001000/1000000005000265001/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265001&livemode=1&stbId=no
 CCTV2,http://39.137.75.234/000000001000/1000000005000265002/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265002&livemode=1&stbId=no
 CCTV3,http://39.137.75.234/000000001000/1000000005000265003/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265003&livemode=1&stbId=no
