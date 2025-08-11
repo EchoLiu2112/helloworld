@@ -1,14 +1,14 @@
 央卫频道,#genre#
-CCTV1,http://223.109.75.19:8000/057754/index.m3u8
-CCTV2,http://223.109.75.19:8000/061465/index.m3u8
-CCTV3,http://223.109.75.19:8000/830965/index.m3u8
-CCTV4,http://223.109.75.19:8000/143097/index.m3u8
-CCTV5,http://223.109.75.19:8000/930480/index.m3u8
+CCTV1 ,http://223.109.75.19:8000/057754/index.m3u8
+CCTV2 ,http://223.109.75.19:8000/061465/index.m3u8
+CCTV3 ,http://223.109.75.19:8000/830965/index.m3u8
+CCTV4 ,http://223.109.75.19:8000/143097/index.m3u8
+CCTV5 ,http://223.109.75.19:8000/930480/index.m3u8
 CCTV5+,http://223.109.75.19:8000/470540/index.m3u8
-CCTV6,http://223.109.75.19:8000/520737/index.m3u8
-CCTV7,http://223.109.75.19:8000/649185/index.m3u8
-CCTV8,http://223.109.75.19:8000/235836/index.m3u8
-CCTV9,http://223.109.75.19:8000/827648/index.m3u8
+CCTV6 ,http://223.109.75.19:8000/520737/index.m3u8
+CCTV7 ,http://223.109.75.19:8000/649185/index.m3u8
+CCTV8 ,http://223.109.75.19:8000/235836/index.m3u8
+CCTV9 ,http://223.109.75.19:8000/827648/index.m3u8
 CCTV10,http://223.109.75.19:8000/502378/index.m3u8
 CCTV11,http://223.109.75.19:8000/554982/index.m3u8
 CCTV12,http://223.109.75.19:8000/422642/index.m3u8
@@ -17,6 +17,25 @@ CCTV14,http://223.109.75.19:8000/271607/index.m3u8
 CCTV15,http://223.109.75.19:8000/399438/index.m3u8
 CCTV16,http://223.109.75.19:8000/246232/index.m3u8
 CCTV17,http://223.109.75.19:8000/299438/index.m3u8
+CCTV1 ,http://43.136.116.27:99/kzb.php?id=cctv1 
+CCTV2 ,http://43.136.116.27:99/kzb.php?id=cctv2 
+CCTV3 ,http://43.136.116.27:99/kzb.php?id=cctv3 
+CCTV4 ,http://43.136.116.27:99/kzb.php?id=cctv4 
+CCTV4a,http://43.136.116.27:99/kzb.php?id=cctv4a 
+CCTV4o,http://43.136.116.27:99/kzb.php?id=cctv4o 
+CCTV5 ,http://43.136.116.27:99/kzb.php?id=cctv5 
+CCTV5+,http://43.136.116.27:99/kzb.php?id=cctv5p 
+CCTV6 ,http://43.136.116.27:99/kzb.php?id=cctv6 
+CCTV7 ,http://43.136.116.27:99/kzb.php?id=cctv7
+CCTV8 ,http://43.136.116.27:99/kzb.php?id=cctv8 
+CCTV9 ,http://43.136.116.27:99/kzb.php?id=cctv9 
+CCTV10,http://43.136.116.27:99/kzb.php?id=cctv10 
+CCTV11,http://43.136.116.27:99/kzb.php?id=cctv11 
+CCTV12,http://43.136.116.27:99/kzb.php?id=cctv12 
+CCTV13,http://43.136.116.27:99/kzb.php?id=cctv13 
+CCTV14,http://43.136.116.27:99/kzb.php?id=cctv14 
+CCTV15,http://43.136.116.27:99/kzb.php?id=cctv15 
+CCTV17,http://43.136.116.27:99/kzb.php?id=cctv17 
 
 北京卫视,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226719/1.m3u8 
 东方卫视,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226734/1.m3u8 
@@ -47,29 +66,7 @@ CCTV17,http://223.109.75.19:8000/299438/index.m3u8
 哒啵赛事,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226905/1.m3u8 
 纪实人文,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226694/1.m3u8 
 中国教育,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226673/1.m3u8 
-信源检测,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226955/1.m3u8 
 
-央卫频道,#genre#
-
-CCTV1综合,http://43.136.116.27:99/kzb.php?id=cctv1 
-CCTV2财经,http://43.136.116.27:99/kzb.php?id=cctv2 
-CCTV3综艺,http://43.136.116.27:99/kzb.php?id=cctv3 
-CCTV4中文国际,http://43.136.116.27:99/kzb.php?id=cctv4 
-CCTV4中文国际-美洲,http://43.136.116.27:99/kzb.php?id=cctv4a 
-CCTV4中文国际-欧洲,http://43.136.116.27:99/kzb.php?id=cctv4o 
-CCTV5体育,http://43.136.116.27:99/kzb.php?id=cctv5 
-CCTV5+体育赛事,http://43.136.116.27:99/kzb.php?id=cctv5p 
-CCTV6电影,http://43.136.116.27:99/kzb.php?id=cctv6 
-CCTV7国防军事,http://43.136.116.27:99/kzb.php?id=cctv7
-CCTV8电视剧,http://43.136.116.27:99/kzb.php?id=cctv8 
-CCTV9纪录,http://43.136.116.27:99/kzb.php?id=cctv9 
-CCTV10科教,http://43.136.116.27:99/kzb.php?id=cctv10 
-CCTV11戏曲,http://43.136.116.27:99/kzb.php?id=cctv11 
-CCTV12社会与法,http://43.136.116.27:99/kzb.php?id=cctv12 
-CCTV13新闻,http://43.136.116.27:99/kzb.php?id=cctv13 
-CCTV14少儿,http://43.136.116.27:99/kzb.php?id=cctv14 
-CCTV15音乐,http://43.136.116.27:99/kzb.php?id=cctv15 
-CCTV17农业农村,http://43.136.116.27:99/kzb.php?id=cctv17 
 北京卫视,http://43.136.116.27:99/kzb.php?id=bjws 
 东方卫视,http://43.136.116.27:99/kzb.php?id=dfws 
 天津卫视,http://43.136.116.27:99/kzb.php?id=tjws 
